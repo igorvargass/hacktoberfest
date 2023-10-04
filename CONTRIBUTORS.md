@@ -1,3 +1,8 @@
+#### Name: [Igor Vargas]
+ - Place: Brazil
+ - Bio: Software Tester
+ - GitHub: [igorvargass](https://github.com/igorvargass)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
